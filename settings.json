@@ -1,0 +1,14 @@
+{
+    "workbench.colorTheme": "Visual Studio Dark",
+    /***
+    * silence the noise
+    ***/
+    "workbench.activityBar.visible": false,
+    "breadcrumbs.enabled": false,
+    "editor.tabSize": 2,
+    "explorer.confirmDragAndDrop": false,
+    "workbench.editor.showTabs": false,
+    "workbench.sideBar.location": "right",
+    "workbench.statusBar.visible": false,
+    "editor.minimap.enabled": false
+}
